@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class App {
+public class BADILLA_FinalExam {
     public static void main(String[] args) {
         // Define the creatures and their power levels
         Stack<Creature> creatureStack = new Stack<>();
